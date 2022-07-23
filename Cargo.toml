@@ -1,0 +1,10 @@
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[package]
+authors = ["Paul Razvan Berg <hello@paulrberg.com>"]
+description = "A template for developing Rust projects, with sensible defaults"
+edition = "2021"
+homepage = "https://github.com/paulrberg/rust-template"
+license = "MIT"
+name = "rust-template"
+version = "0.1.0"
