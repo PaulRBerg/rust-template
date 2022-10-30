@@ -1,7 +1,8 @@
-arrowParens: "avoid"
 bracketSpacing: true
 endOfLine: "auto"
 printWidth: 120
 singleQuote: false
 tabWidth: 2
+proseWrap: "always"
 trailingComma: "all"
+useTabs: false
