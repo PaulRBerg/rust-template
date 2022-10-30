@@ -9,7 +9,8 @@ A template for developing Rust projects, with sensible defaults.
 
 ## Getting Started
 
-Click the [`Use this template`](https://github.com/paulrberg/rust-template/generate) button at the top of the page to create a new repository with this repo as the initial state.
+Click the [`Use this template`](https://github.com/paulrberg/rust-template/generate) button at the top of the page to
+create a new repository with this repo as the initial state.
 
 ## Features
 
