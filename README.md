@@ -39,4 +39,4 @@ See [The Rust Book](https://doc.rust-lang.org/book/) and [The Cargo Book](https:
 
 ## License
 
-[MIT](./LICENSE.md) © Paul Razvan Berg
+This project is licensed under MIT.
