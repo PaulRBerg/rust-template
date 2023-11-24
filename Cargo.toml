@@ -1,7 +1,7 @@
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [package]
-    authors = ["Paul Razvan Berg <hello@paulrberg.com>"]
+    authors = ["Paul Razvan Berg"]
     description = "A template for developing Rust projects, with sensible defaults"
     edition = "2021"
     homepage = "https://github.com/PaulRBerg/rust-template"
