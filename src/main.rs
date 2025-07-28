@@ -15,7 +15,7 @@ fn main() {
     let serialized = serde_json::to_string(&point).unwrap();
 
     // Prints serialized = {"x":1,"y":2}
-    println!("Serialized point = {}", serialized);
+    println!("Serialized point = {serialized}",);
 }
 
 #[cfg(test)]

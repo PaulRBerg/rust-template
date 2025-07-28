@@ -23,6 +23,7 @@ This template comes with sensible default configurations in the following files:
 ├── .gitignore
 ├── .prettierrc.yml
 ├── Cargo.toml
+├── justfile
 └── rustfmt.toml
 ```
 
