@@ -20,8 +20,7 @@ default:
 
 # Run all code checks
 full-check:
-    cargo check
-    cargo +nightly fmt --all --check
+    cargo fmt --all --check
     cargo clippy -- --deny warnings
 
 # Run tests
