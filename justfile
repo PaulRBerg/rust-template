@@ -32,6 +32,10 @@ full-check:
     cargo clippy -- --deny warnings
 alias fc := full-check
 
+full-write:
+    cargo fmt --all
+alias fw := full-write
+
 # Run tests
 test:
     cargo test
