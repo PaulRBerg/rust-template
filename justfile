@@ -1,5 +1,6 @@
 set allow-duplicate-recipes := true
 set allow-duplicate-variables := true
+set quiet := true
 set shell := ["bash", "-euo", "pipefail", "-c"]
 
 # ---------------------------------------------------------------------------- #
